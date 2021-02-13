@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body style= "background-color:#FFFACD;">				
 <h1><center><font color="
@@ -50,8 +50,7 @@
 
 </table>
 </ul>
-</table>
-</html>
+
 
 
 
