@@ -18,7 +18,7 @@
 								<td><b>BTS CLUB</b></td>
 				</tr>
 				</tr>
-				</table>
+				
 				
 			<hr size="4" noshadow>
 <ul>
