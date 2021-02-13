@@ -33,7 +33,7 @@
 				<li>India<link rel="stylesheet" href=""></li>
 				<li>Philippines<link rel="stylesheet" href=""></li>
 				<li>Sinagpore<link rel="stylesheet" href=""></li>
-				<li>South Korea<link rel="stylesheet" href=""></li></li>
+				<li>South Korea<link rel="stylesheet" href=""></li>
 				<li>Taiwan<link rel="stylesheet" href=""></li>
 				<li>Thailand<link rel="stylesheet" href=""></li>
 			<br>
