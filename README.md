@@ -3,7 +3,7 @@
 <body style= "background-color:#FFFACD;">				
 <h1><center><font color="
 #DC143C">Asian Boys</font></center></h1>
-<h4><center>Welcome to International Community of Blued Boys</center></h4></p>
+<h4><center>Welcome to International Community of Blued Boys</center></h4>
 <table>
 <tr>
 				<table>
@@ -19,7 +19,7 @@
 				</tr>
 				</tr>
 				</table>
-				</table>
+				
 			<hr size="4" noshadow>
 <ul>
 				<li>Cambodia<link rel="stylesheet" href="www.1.com"></li>
@@ -49,8 +49,7 @@
 
 </table>
 </ul>
-</body>
-</html>
+
 
 
 
